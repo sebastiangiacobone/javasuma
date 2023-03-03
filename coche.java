@@ -30,5 +30,7 @@ public class coche {
         System.out.println("El coche tiene " + miCoche.getNumPuertas() + " puertas."); 
         miCoche.añadirPuerta(); // y ahora un SUV de 5 puertas
         System.out.println("El coche tiene " + miCoche.getNumPuertas() + " puertas."); // mostrar el número de puertas del coche
+
+        
     }
 }
